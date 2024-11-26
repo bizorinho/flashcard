@@ -1,30 +1,35 @@
 criaCartao(
-    'Genética',
-    'O que é a Primeira Lei de Mendel?',
-    'A Primeira Lei de Mendel afirma que cada indivíduo tem dois alelos por característica, herdados de pai e mãe, que se separam durante a formação dos gametas, garantindo a variabilidade genética.'
+    'Biologia',
+    'Quais são as diferenças fundamentais entre DNA e RNA e suas respectivas funções no organismo?',
+    'DNA armazena informações genéticas e é de fita dupla; RNA auxilia na síntese de proteínas e é de fita simples'
 )
 
 criaCartao(
-   'Genética',
-    'Como funciona a Primeira Lei de Mendel em um exemplo simples?',
-    'Cruzando plantas de ervilha amarelas (AA) com verdes (aa), a primeira geração (F1) terá sementes amarelas (Aa). Na segunda geração (F2), a proporção será 3 amarelas para 1 verde.'
-    )
-
-criaCartao(
-    'Genética',
-    'Como a ideia de segregação independente se relaciona com a Primeira Lei de Mendel?',
-    'A Segunda Lei de Mendel aborda a segregação independente de diferentes características. A Primeira Lei também implica que os genes para uma característica se separam independentemente durante a formação dos gametas.')
-
-criaCartao(
-    'Genética',
-    'Qual a Segunda Lei de Mendel?',
-    'A Segunda Lei de Mendel afirma que alelos de diferentes genes se segregam independentemente durante a formação dos gametas, significando que a herança de um gene não afeta a de outro gene.'
+    'Biologia',
+    'Como a hereditariedade influencia características físicas e predisposições a certas doenças?',
+    'Características físicas e predisposições a doenças são passadas geneticamente de pais para filhos'
 )
 
 criaCartao(
-    'Genética',
-    'Como Mendel descobriu a Segunda Lei?',
-    'Mendel, ao estudar ervilhas em cruzamentos diíbridos, notou que a herança de uma característica não influenciava a outra. Assim, ele concluiu que os alelos de diferentes genes se segregam independentemente.'
+    'Biologia',
+    'O que é engenharia genética e quais são algumas de suas aplicações atuais e potenciais futuras??',
+    'Manipulação do DNA para fins como produção de medicamentos e terapia gênica, com potencial futuro para curar doenças complexas.'
 )
 
+criaCartao(
+    'Biologia',
+    'Como as mutações genéticas ocorrem e quais são seus possíveis efeitos na saúde e no desenvolvimento?',
+    'Alterações no DNA que podem ocorrer espontaneamente ou devido a agentes mutagênicos, podendo causar doenças.'
+)
 
+criaCartao(
+    'Biologia',
+    'Qual é o papel dos genes e do ambiente na determinação do comportamento humano?',
+    'Ambos influenciam o comportamento humano, com os genes predispondo e o ambiente moldando esses comportamentos.'
+)
+
+criaCartao(
+    'Biologia',
+    'Quais são as implicações éticas das tecnologias de edição genética, como o CRISPR, na medicina e na sociedade?',
+    'Tecnologias como o CRISPR oferecem benefícios médicos, mas levantam questões éticas sobre o uso responsável e desigualdades.'
+)
